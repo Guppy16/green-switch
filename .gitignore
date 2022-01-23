@@ -1,0 +1,12 @@
+.DS_Store
+backend/Flask-2.0.2-py3-none-any.whl
+backend/Jinja2-3.0.3-py3-none-any.whl
+backend/MarkupSafe-2.0.1-cp39-cp39-macosx_10_9_x86_64.whl
+backend/Werkzeug-2.0.2-py3-none-any.whl
+backend/certifi-2021.10.8-py2.py3-none-any.whl
+backend/charset_normalizer-2.0.10-py3-none-any.whl
+backend/click-8.0.3-py3-none-any.whl
+backend/idna-3.3-py3-none-any.whl
+backend/itsdangerous-2.0.1-py3-none-any.whl
+backend/requests-2.27.1-py2.py3-none-any.whl
+backend/urllib3-1.26.8-py2.py3-none-any.whl
